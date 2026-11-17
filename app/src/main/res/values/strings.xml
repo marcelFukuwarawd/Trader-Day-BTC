@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BTC Trader Sim</string>
+    <string name="channel_trades">Operações BTC</string>
+    <string name="channel_reports">Relatório diário 21h</string>
+</resources>
